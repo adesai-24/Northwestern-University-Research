@@ -1,0 +1,36 @@
+Aadi - Create bump graph twice - one with small angle, one with big angle
+Shaan - Add second cone system to sim
+After - Add Companies
+
+2 Companies always transmitting, everyone receives
+
+Add more than 2 Companies
+Get rid of flip flop 
+Preprocessing to get rid of useless sats - find interferences both ways and compare
+
+Increase number of satellites in both
+Increase number of satellites in just one while keeping the other the same - go from below to above
+
+1/25/23
+Different companies (result)
+Increase number of satellites in both
+Increase number of satellites in just one while keeping the other the same - go from below to above
+if we can: try having the satellites having angled beams instead of straight down beams
+
+2/22/23
+multiple compnaies - 6 line graph from increasing total number of sats
+golden point of successes - try to find patterns
+
+3/8/23
+Fewer satellites would mean wider angle (what graphs are implying)
+Flip graph below (make angles increasing x-axis and number of satellites as legend)
+Company sweet spot graph using old code that separates companies into one
+
+get companybump working
+look at aadi's graph
+get big program that calculates the optimal angle for a bunch of scenarios and graphs it.
+Compare this to the equation we derived.
+
+blackbox
+line search
+
